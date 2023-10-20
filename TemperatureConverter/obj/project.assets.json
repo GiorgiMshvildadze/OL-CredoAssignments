@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\TemperatureConverter\\TemperatureConverter.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\TemperatureConverter\\TemperatureConverter.csproj",
       "projectName": "TemperatureConverter",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\TemperatureConverter\\TemperatureConverter.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\TemperatureConverter\\TemperatureConverter.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\TemperatureConverter\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\TemperatureConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

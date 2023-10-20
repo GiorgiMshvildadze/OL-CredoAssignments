@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BinarySearch",
+    "\\ConsoleCalculator1",
+    "\\NthFibonacci1",
+    "\\NumberToBinary",
+    "\\TemperatureConverter"
   ],
-  "SelectedNode": "\\C:\\Users\\giorgimshvildadze\\Source\\Repos\\OL-Assignments",
   "PreviewInSolutionExplorer": false
 }

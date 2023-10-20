@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\NthFibonacci1\\NthFibonacci1.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\NthFibonacci1\\NthFibonacci1.csproj",
       "projectName": "NthFibonacci1",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\NthFibonacci1\\NthFibonacci1.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\NthFibonacci1\\NthFibonacci1.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\NthFibonacci1\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\NthFibonacci1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

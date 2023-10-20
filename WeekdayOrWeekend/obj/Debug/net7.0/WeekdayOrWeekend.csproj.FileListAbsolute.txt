@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\bin\Debug\net7.0\WeekdayOrWeekend.exe
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\bin\Debug\net7.0\WeekdayOrWeekend.deps.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\bin\Debug\net7.0\WeekdayOrWeekend.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\bin\Debug\net7.0\WeekdayOrWeekend.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\bin\Debug\net7.0\WeekdayOrWeekend.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\WeekdayOrWeekend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\WeekdayOrWeekend.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\WeekdayOrWeekend.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\WeekdayOrWeekend.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\WeekdayOrWeekend.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\refint\WeekdayOrWeekend.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\WeekdayOrWeekend.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\WeekdayOrWeekend.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\WeekdayOrWeekend\obj\Debug\net7.0\ref\WeekdayOrWeekend.dll

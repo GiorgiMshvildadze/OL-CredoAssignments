@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\BinarySearch\\BinarySearch.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\BinarySearch\\BinarySearch.csproj",
       "projectName": "BinarySearch",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\BinarySearch\\BinarySearch.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\BinarySearch\\BinarySearch.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\BinarySearch\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\BinarySearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

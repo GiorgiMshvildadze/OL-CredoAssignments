@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\VowelOrNot1\\VowelOrNot1.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\VowelOrNot1\\VowelOrNot1.csproj",
       "projectName": "VowelOrNot1",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\VowelOrNot1\\VowelOrNot1.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\VowelOrNot1\\VowelOrNot1.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\Ol-Assignment\\VowelOrNot1\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\VowelOrNot1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

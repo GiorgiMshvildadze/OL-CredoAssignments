@@ -13,7 +13,7 @@ class Program
     //funciotns
     static void Addition()
     {
-        answer = Num1 + Num2;
+        answer  = Num1 + Num2;
 
 
     }

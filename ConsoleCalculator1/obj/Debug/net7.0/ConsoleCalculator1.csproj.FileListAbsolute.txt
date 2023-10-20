@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\bin\Debug\net7.0\ConsoleCalculator1.exe
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\bin\Debug\net7.0\ConsoleCalculator1.deps.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\bin\Debug\net7.0\ConsoleCalculator1.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\bin\Debug\net7.0\ConsoleCalculator1.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\bin\Debug\net7.0\ConsoleCalculator1.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ConsoleCalculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ConsoleCalculator1.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ConsoleCalculator1.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ConsoleCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ConsoleCalculator1.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\refint\ConsoleCalculator1.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ConsoleCalculator1.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ConsoleCalculator1.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ConsoleCalculator1\obj\Debug\net7.0\ref\ConsoleCalculator1.dll

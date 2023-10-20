@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalculator1", "ConsoleCalculator1\ConsoleCalculator1.csproj", "{5BEAFE01-2A97-463E-817A-C8715361CC31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCalculator1", "ConsoleCalculator1\ConsoleCalculator1.csproj", "{5BEAFE01-2A97-463E-817A-C8715361CC31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthFibonacci1", "NthFibonacci1\NthFibonacci1.csproj", "{9D3E1BB0-82AA-4AA2-BAB4-AF1A1CC5B2BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NthFibonacci1", "NthFibonacci1\NthFibonacci1.csproj", "{9D3E1BB0-82AA-4AA2-BAB4-AF1A1CC5B2BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelOrNot1", "VowelOrNot1\VowelOrNot1.csproj", "{C2FED159-AA6E-4C8F-8874-D651FCE0D9F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelOrNot1", "VowelOrNot1\VowelOrNot1.csproj", "{C2FED159-AA6E-4C8F-8874-D651FCE0D9F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{7F4607D5-472D-4F72-8BEA-C9AE7C96963E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{7F4607D5-472D-4F72-8BEA-C9AE7C96963E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToBinary", "NumberToBinary\NumberToBinary.csproj", "{0E0A9611-B973-462B-B254-066C2A3317A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToBinary", "NumberToBinary\NumberToBinary.csproj", "{0E0A9611-B973-462B-B254-066C2A3317A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConverter", "TemperatureConverter\TemperatureConverter.csproj", "{5BE19E0B-E8BD-42C6-8FE7-4D75C715E926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureConverter", "TemperatureConverter\TemperatureConverter.csproj", "{5BE19E0B-E8BD-42C6-8FE7-4D75C715E926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekdayOrWeekend", "WeekdayOrWeekend\WeekdayOrWeekend.csproj", "{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5BE19E0B-E8BD-42C6-8FE7-4D75C715E926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE19E0B-E8BD-42C6-8FE7-4D75C715E926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE19E0B-E8BD-42C6-8FE7-4D75C715E926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

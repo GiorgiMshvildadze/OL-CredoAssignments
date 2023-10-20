@@ -21,10 +21,6 @@ class Program
 
             ReverseBinary = ReverseBinary + smth;
 
-
-
-
-
         }
         foreach (char i in ReverseBinary)
         {
@@ -34,12 +30,14 @@ class Program
 
         Console.WriteLine(Binary);
         return 0;
+        
     }
 
 
     static void Main(string[] args)
     {
         ToBinary(1000);
+        Console.ReadLine();
     }
 }
 
