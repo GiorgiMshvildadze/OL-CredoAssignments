@@ -39,7 +39,7 @@ class Program
 
 
 
-        Console.WriteLine(CalculateFibonacci(Convert.ToInt32(Console.ReadLine()));
+        Console.WriteLine(CalculateFibonacci(Convert.ToInt32(Console.ReadLine())));
 
 
     }

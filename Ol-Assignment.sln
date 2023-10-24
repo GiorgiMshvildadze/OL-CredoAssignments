@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToBinary", "NumberToB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureConverter", "TemperatureConverter\TemperatureConverter.csproj", "{5BE19E0B-E8BD-42C6-8FE7-4D75C715E926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekdayOrWeekend", "WeekdayOrWeekend\WeekdayOrWeekend.csproj", "{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeekdayOrWeekend", "WeekdayOrWeekend\WeekdayOrWeekend.csproj", "{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPrinter", "NumberPrinter\NumberPrinter.csproj", "{7CA72AF2-969B-4D64-86BD-9A23E4DE6C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumberFinder", "EvenNumberFinder\EvenNumberFinder.csproj", "{7C762805-3AC8-405D-97FC-63FE939DD486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{96D83DB1-FA8D-4C81-9B0C-549DCC82AD73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80DEF31D-AB0E-48FB-A95B-F68A5DDAEB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA72AF2-969B-4D64-86BD-9A23E4DE6C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA72AF2-969B-4D64-86BD-9A23E4DE6C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA72AF2-969B-4D64-86BD-9A23E4DE6C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA72AF2-969B-4D64-86BD-9A23E4DE6C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C762805-3AC8-405D-97FC-63FE939DD486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C762805-3AC8-405D-97FC-63FE939DD486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C762805-3AC8-405D-97FC-63FE939DD486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C762805-3AC8-405D-97FC-63FE939DD486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D83DB1-FA8D-4C81-9B0C-549DCC82AD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D83DB1-FA8D-4C81-9B0C-549DCC82AD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D83DB1-FA8D-4C81-9B0C-549DCC82AD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D83DB1-FA8D-4C81-9B0C-549DCC82AD73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
