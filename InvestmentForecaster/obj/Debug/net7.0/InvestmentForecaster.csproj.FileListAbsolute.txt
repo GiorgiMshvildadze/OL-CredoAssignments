@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\bin\Debug\net7.0\InvestmentForecaster.exe
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\bin\Debug\net7.0\InvestmentForecaster.deps.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\bin\Debug\net7.0\InvestmentForecaster.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\bin\Debug\net7.0\InvestmentForecaster.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\bin\Debug\net7.0\InvestmentForecaster.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\InvestmentForecaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\InvestmentForecaster.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\InvestmentForecaster.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\InvestmentForecaster.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\InvestmentForecaster.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\refint\InvestmentForecaster.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\InvestmentForecaster.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\InvestmentForecaster.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\InvestmentForecaster\obj\Debug\net7.0\ref\InvestmentForecaster.dll

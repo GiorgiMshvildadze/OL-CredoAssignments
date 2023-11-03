@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\bin\Debug\net7.0\ArrayOperations.exe
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\bin\Debug\net7.0\ArrayOperations.deps.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\bin\Debug\net7.0\ArrayOperations.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\bin\Debug\net7.0\ArrayOperations.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\bin\Debug\net7.0\ArrayOperations.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ArrayOperations.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ArrayOperations.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ArrayOperations.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\refint\ArrayOperations.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ArrayOperations.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ArrayOperations.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\ArrayOperations\obj\Debug\net7.0\ref\ArrayOperations.dll
