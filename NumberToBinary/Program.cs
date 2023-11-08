@@ -11,6 +11,7 @@ class Program
 
     static long ToBinary(long number)
     {
+
         string? ReverseBinary = null;
         string? Binary = null;
         while (number >= 1)

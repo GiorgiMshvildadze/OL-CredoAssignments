@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\bin\Debug\net7.0\PalindromeChecker.exe
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\bin\Debug\net7.0\PalindromeChecker.deps.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\bin\Debug\net7.0\PalindromeChecker.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\bin\Debug\net7.0\PalindromeChecker.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\bin\Debug\net7.0\PalindromeChecker.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\PalindromeChecker.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\PalindromeChecker.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\refint\PalindromeChecker.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\PalindromeChecker.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\PalindromeChecker.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\PalindromeChecker\obj\Debug\net7.0\ref\PalindromeChecker.dll

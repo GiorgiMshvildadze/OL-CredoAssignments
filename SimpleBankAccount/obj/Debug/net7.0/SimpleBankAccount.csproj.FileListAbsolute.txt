@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\bin\Debug\net7.0\SimpleBankAccount.exe
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\bin\Debug\net7.0\SimpleBankAccount.deps.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\bin\Debug\net7.0\SimpleBankAccount.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\bin\Debug\net7.0\SimpleBankAccount.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\bin\Debug\net7.0\SimpleBankAccount.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\SimpleBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\SimpleBankAccount.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\SimpleBankAccount.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\SimpleBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\SimpleBankAccount.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\refint\SimpleBankAccount.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\SimpleBankAccount.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\SimpleBankAccount.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\SimpleBankAccount\obj\Debug\net7.0\ref\SimpleBankAccount.dll

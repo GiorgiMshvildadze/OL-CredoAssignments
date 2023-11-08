@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\bin\Debug\net7.0\TextAnalyzer.exe
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\bin\Debug\net7.0\TextAnalyzer.deps.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\bin\Debug\net7.0\TextAnalyzer.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\bin\Debug\net7.0\TextAnalyzer.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\bin\Debug\net7.0\TextAnalyzer.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\TextAnalyzer.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\TextAnalyzer.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\refint\TextAnalyzer.dll
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\TextAnalyzer.pdb
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\TextAnalyzer.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\OL-Assignments\TextAnalyzer\obj\Debug\net7.0\ref\TextAnalyzer.dll
