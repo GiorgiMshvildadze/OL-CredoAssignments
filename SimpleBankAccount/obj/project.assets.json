@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\": {}
+    "C:\\Users\\Fatlamb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj",
+      "projectUniqueName": "C:\\Users\\Fatlamb\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj",
       "projectName": "SimpleBankAccount",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj",
-      "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\OL-Assignments\\SimpleBankAccount\\obj\\",
+      "projectPath": "C:\\Users\\Fatlamb\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj",
+      "packagesPath": "C:\\Users\\Fatlamb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fatlamb\\OL-Assignments\\SimpleBankAccount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fatlamb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
