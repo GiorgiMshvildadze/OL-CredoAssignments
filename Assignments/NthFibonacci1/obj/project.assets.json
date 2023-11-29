@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\BinarySearch.csproj",
-      "projectName": "BinarySearch",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\BinarySearch.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NthFibonacci1\\NthFibonacci1.csproj",
+      "projectName": "NthFibonacci1",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NthFibonacci1\\NthFibonacci1.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NthFibonacci1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
