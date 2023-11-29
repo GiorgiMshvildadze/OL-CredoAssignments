@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\SeatReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\SeatReservation.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\SeatReservation.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\SeatReservation.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\bin\Debug\net7.0\SeatReservation.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\bin\Debug\net7.0\SeatReservation.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\bin\Debug\net7.0\SeatReservation.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\bin\Debug\net7.0\SeatReservation.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\bin\Debug\net7.0\SeatReservation.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\SeatReservation.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\refint\SeatReservation.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\SeatReservation.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\SeatReservation.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\SeatReservation\obj\Debug\net7.0\ref\SeatReservation.dll
