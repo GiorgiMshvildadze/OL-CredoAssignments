@@ -15,7 +15,6 @@ class Program
     {
         answer = Num1 + Num2;
 
-
     }
     static void Subtraction()
     {
@@ -82,7 +81,7 @@ class Program
                 Console.WriteLine("Cannot divide by 0. Please try again.");
                 continue;
             }
-
+            
             Console.WriteLine("Answer is: " + answer + "\n \n");
         }
     }
