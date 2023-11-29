@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DiscountCalculator\\DiscountCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DiscountCalculator\\DiscountCalculator.csproj",
       "projectName": "DiscountCalculator",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DiscountCalculator\\DiscountCalculator.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DiscountCalculator\\DiscountCalculator.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DiscountCalculator\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DiscountCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj": {
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj",
         "projectName": "SimpleBankAccount",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SimpleBankAccount\\SimpleBankAccount.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SimpleBankAccount\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

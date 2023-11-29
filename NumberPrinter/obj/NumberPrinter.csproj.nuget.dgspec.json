@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NumberPrinter\\NumberPrinter.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\NumberPrinter\\NumberPrinter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NumberPrinter\\NumberPrinter.csproj": {
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\NumberPrinter\\NumberPrinter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NumberPrinter\\NumberPrinter.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\NumberPrinter\\NumberPrinter.csproj",
         "projectName": "NumberPrinter",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NumberPrinter\\NumberPrinter.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\NumberPrinter\\NumberPrinter.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\NumberPrinter\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\NumberPrinter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

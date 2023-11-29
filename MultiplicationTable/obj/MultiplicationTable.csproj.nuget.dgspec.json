@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\MultiplicationTable\\MultiplicationTable.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\MultiplicationTable\\MultiplicationTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\MultiplicationTable\\MultiplicationTable.csproj": {
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\MultiplicationTable\\MultiplicationTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\MultiplicationTable\\MultiplicationTable.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\MultiplicationTable\\MultiplicationTable.csproj",
         "projectName": "MultiplicationTable",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\MultiplicationTable\\MultiplicationTable.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\MultiplicationTable\\MultiplicationTable.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\MultiplicationTable\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\MultiplicationTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

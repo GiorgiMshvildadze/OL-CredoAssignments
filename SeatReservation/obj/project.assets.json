@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SeatReservation\\SeatReservation.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SeatReservation\\SeatReservation.csproj",
       "projectName": "SeatReservation",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SeatReservation\\SeatReservation.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SeatReservation\\SeatReservation.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\SeatReservation\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SeatReservation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

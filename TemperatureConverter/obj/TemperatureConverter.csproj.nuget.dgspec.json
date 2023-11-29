@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\TemperatureConverter\\TemperatureConverter.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TemperatureConverter\\TemperatureConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\TemperatureConverter\\TemperatureConverter.csproj": {
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TemperatureConverter\\TemperatureConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\TemperatureConverter\\TemperatureConverter.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TemperatureConverter\\TemperatureConverter.csproj",
         "projectName": "TemperatureConverter",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\TemperatureConverter\\TemperatureConverter.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TemperatureConverter\\TemperatureConverter.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\TemperatureConverter\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TemperatureConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

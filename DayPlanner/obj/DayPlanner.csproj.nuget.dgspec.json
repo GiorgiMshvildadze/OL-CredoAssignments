@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DayPlanner\\DayPlanner.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DayPlanner\\DayPlanner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DayPlanner\\DayPlanner.csproj": {
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DayPlanner\\DayPlanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DayPlanner\\DayPlanner.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DayPlanner\\DayPlanner.csproj",
         "projectName": "DayPlanner",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DayPlanner\\DayPlanner.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DayPlanner\\DayPlanner.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\DayPlanner\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\DayPlanner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

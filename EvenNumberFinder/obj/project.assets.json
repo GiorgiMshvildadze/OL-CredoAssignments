@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\EvenNumberFinder\\EvenNumberFinder.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\EvenNumberFinder\\EvenNumberFinder.csproj",
       "projectName": "EvenNumberFinder",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\EvenNumberFinder\\EvenNumberFinder.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\EvenNumberFinder\\EvenNumberFinder.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\EvenNumberFinder\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\EvenNumberFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

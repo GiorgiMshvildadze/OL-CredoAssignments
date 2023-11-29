@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\GradeAnalyzer\\GradeAnalyzer.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\GradeAnalyzer\\GradeAnalyzer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\GradeAnalyzer\\GradeAnalyzer.csproj": {
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\GradeAnalyzer\\GradeAnalyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\GradeAnalyzer\\GradeAnalyzer.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\GradeAnalyzer\\GradeAnalyzer.csproj",
         "projectName": "GradeAnalyzer",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\GradeAnalyzer\\GradeAnalyzer.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\GradeAnalyzer\\GradeAnalyzer.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\GradeAnalyzer\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\GradeAnalyzer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

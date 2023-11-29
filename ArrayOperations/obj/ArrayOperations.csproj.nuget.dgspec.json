@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\ArrayOperations\\ArrayOperations.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\ArrayOperations\\ArrayOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\ArrayOperations\\ArrayOperations.csproj": {
+    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\ArrayOperations\\ArrayOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\ArrayOperations\\ArrayOperations.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\ArrayOperations\\ArrayOperations.csproj",
         "projectName": "ArrayOperations",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\ArrayOperations\\ArrayOperations.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\ArrayOperations\\ArrayOperations.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\ArrayOperations\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\ArrayOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

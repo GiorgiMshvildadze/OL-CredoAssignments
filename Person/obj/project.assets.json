@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\Person\\Person.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\Person\\Person.csproj",
       "projectName": "Person",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\Person\\Person.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\Person\\Person.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\Person\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\Person\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
