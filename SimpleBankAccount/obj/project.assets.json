@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj",
       "projectName": "SimpleBankAccount",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\SimpleBankAccount\\SimpleBankAccount.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\SimpleBankAccount\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\SimpleBankAccount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

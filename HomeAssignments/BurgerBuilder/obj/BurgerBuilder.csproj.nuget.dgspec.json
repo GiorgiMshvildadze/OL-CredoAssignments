@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj": {
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj",
         "projectName": "BurgerBuilder",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\BurgerBuilder.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\BurgerBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

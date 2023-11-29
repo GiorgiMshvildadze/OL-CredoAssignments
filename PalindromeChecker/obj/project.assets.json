@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\PalindromeChecker\\PalindromeChecker.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\PalindromeChecker\\PalindromeChecker.csproj",
       "projectName": "PalindromeChecker",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\PalindromeChecker\\PalindromeChecker.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\PalindromeChecker\\PalindromeChecker.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\PalindromeChecker\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\PalindromeChecker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

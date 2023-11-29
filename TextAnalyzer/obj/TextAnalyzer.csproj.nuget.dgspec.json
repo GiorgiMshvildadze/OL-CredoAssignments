@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj": {
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj",
         "projectName": "TextAnalyzer",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\TextAnalyzer\\TextAnalyzer.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\TextAnalyzer\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\TextAnalyzer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

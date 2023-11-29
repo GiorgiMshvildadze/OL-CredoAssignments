@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "projectName": "ConsoleCalculator",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\ConsoleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\ConsoleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj": {
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj",
         "projectName": "NthFibonacci",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\NthFibonacci.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\NthFibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj": {
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj",
         "projectName": "InvestmentForecaster",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\InvestmentForecaster\\InvestmentForecaster.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\InvestmentForecaster\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\InvestmentForecaster\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

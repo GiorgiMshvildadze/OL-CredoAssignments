@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\WeekdayOrWeekend\\WeekdayOrWeekend.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\WeekdayOrWeekend\\WeekdayOrWeekend.csproj",
       "projectName": "WeekdayOrWeekend",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\WeekdayOrWeekend\\WeekdayOrWeekend.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\WeekdayOrWeekend\\WeekdayOrWeekend.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\WeekdayOrWeekend\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\WeekdayOrWeekend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\HomeAssignments\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

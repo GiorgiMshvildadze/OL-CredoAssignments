@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\AnimalHierarchy\\AnimalHierarchy.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\AnimalHierarchy\\AnimalHierarchy.csproj",
       "projectName": "AnimalHierarchy",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\AnimalHierarchy\\AnimalHierarchy.csproj",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\AnimalHierarchy\\AnimalHierarchy.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giorgimshvildadze\\OL-CredoAssignments1\\AnimalHierarchy\\obj\\",
+      "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\AnimalHierarchy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",
