@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\BinarySearch.csproj": {}
+    "C:\\Users\\giorgimshvildadze\\source\\repos\\BurgerBuilder\\BurgerBuilder\\BurgerBuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\BinarySearch.csproj": {
+    "C:\\Users\\giorgimshvildadze\\source\\repos\\BurgerBuilder\\BurgerBuilder\\BurgerBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\BinarySearch.csproj",
-        "projectName": "BinarySearch",
-        "projectPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\BinarySearch.csproj",
+        "projectUniqueName": "C:\\Users\\giorgimshvildadze\\source\\repos\\BurgerBuilder\\BurgerBuilder\\BurgerBuilder.csproj",
+        "projectName": "BurgerBuilder",
+        "projectPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\BurgerBuilder\\BurgerBuilder\\BurgerBuilder.csproj",
         "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgimshvildadze\\OL-Assignments\\BinarySearch\\obj\\",
+        "outputPath": "C:\\Users\\giorgimshvildadze\\source\\repos\\BurgerBuilder\\BurgerBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorgimshvildadze\\AppData\\Roaming\\NuGet\\NuGet.Config",

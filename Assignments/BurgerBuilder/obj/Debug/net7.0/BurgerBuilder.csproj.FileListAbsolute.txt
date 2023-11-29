@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\BurgerBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\BurgerBuilder.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\BurgerBuilder.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\BurgerBuilder.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\net7.0\BurgerBuilder.exe
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\net7.0\BurgerBuilder.deps.json
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\net7.0\BurgerBuilder.runtimeconfig.json
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\net7.0\BurgerBuilder.dll
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\net7.0\BurgerBuilder.pdb
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\BurgerBuilder.dll
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\refint\BurgerBuilder.dll
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\BurgerBuilder.pdb
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\BurgerBuilder.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\net7.0\ref\BurgerBuilder.dll
