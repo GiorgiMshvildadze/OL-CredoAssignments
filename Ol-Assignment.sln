@@ -35,25 +35,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBankAccount", "Simple
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalHierarchy", "AnimalHierarchy\AnimalHierarchy.csproj", "{0B0804E1-BC98-4C41-B249-8D56CA809590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDrivenTemperatureMonitor", "EventDriven\EventDrivenTemperatureMonitor.csproj", "{531F865B-9458-4FDA-BBF9-335F2DDD3AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventDrivenTemperatureMonitor", "EventDriven\EventDrivenTemperatureMonitor.csproj", "{531F865B-9458-4FDA-BBF9-335F2DDD3AB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList", "ContactList\ContactList.csproj", "{867EADE2-80D9-4811-AE11-A80C3C87C977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList", "ContactList\ContactList.csproj", "{867EADE2-80D9-4811-AE11-A80C3C87C977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeHierarchy", "ShapeHierarchty\ShapeHierarchy.csproj", "{1649AFDB-B3E3-4295-8388-C65B839CD0FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeHierarchy", "ShapeHierarchty\ShapeHierarchy.csproj", "{1649AFDB-B3E3-4295-8388-C65B839CD0FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToBinary", "NumberToBinary\NumberToBinary.csproj", "{7537F969-7CE3-414B-91DD-5F0EE7BC28A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToBinary", "NumberToBinary\NumberToBinary.csproj", "{7537F969-7CE3-414B-91DD-5F0EE7BC28A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{230605D4-A0BA-4BBD-8766-F285B3A9D368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{230605D4-A0BA-4BBD-8766-F285B3A9D368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthFibonacci", "NthFibonacci\NthFibonacci.csproj", "{78325459-679B-4E1C-8ABE-4A6CEB48A3F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NthFibonacci", "NthFibonacci\NthFibonacci.csproj", "{78325459-679B-4E1C-8ABE-4A6CEB48A3F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalculator", "ConsoleCalculator\ConsoleCalculator.csproj", "{8A3796CA-57E9-4361-B7D6-9A181202EC67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCalculator", "ConsoleCalculator\ConsoleCalculator.csproj", "{8A3796CA-57E9-4361-B7D6-9A181202EC67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelOrNot", "VowelOrNot\VowelOrNot.csproj", "{CA956510-327A-41D6-A3F5-D473A77A7C36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelOrNot", "VowelOrNot\VowelOrNot.csproj", "{CA956510-327A-41D6-A3F5-D473A77A7C36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{CEEF1E01-BBA7-4AD5-88A8-E1EC41AD3685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{CEEF1E01-BBA7-4AD5-88A8-E1EC41AD3685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerBuilder", "BurgerBuilder\BurgerBuilder.csproj", "{15A4D926-0B58-4B81-B564-E8C411B1859D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerBuilder", "BurgerBuilder\BurgerBuilder.csproj", "{15A4D926-0B58-4B81-B564-E8C411B1859D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCalculator", "AdvancedCalculator\AdvancedCalculator.csproj", "{1800E2D1-1526-4A2E-B09F-D2106FB4F090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{15A4D926-0B58-4B81-B564-E8C411B1859D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15A4D926-0B58-4B81-B564-E8C411B1859D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15A4D926-0B58-4B81-B564-E8C411B1859D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1800E2D1-1526-4A2E-B09F-D2106FB4F090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1800E2D1-1526-4A2E-B09F-D2106FB4F090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1800E2D1-1526-4A2E-B09F-D2106FB4F090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1800E2D1-1526-4A2E-B09F-D2106FB4F090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

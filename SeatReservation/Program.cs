@@ -61,7 +61,7 @@ class SeatReservation
             InputRow();
         }
         InputColumn();
-    }
+    }           
 
 
     public void ReserveSeat()

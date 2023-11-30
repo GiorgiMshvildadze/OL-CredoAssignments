@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\bin\Debug\net7.0\AdvancedCalculator.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\bin\Debug\net7.0\AdvancedCalculator.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\bin\Debug\net7.0\AdvancedCalculator.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\bin\Debug\net7.0\AdvancedCalculator.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\bin\Debug\net7.0\AdvancedCalculator.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\AdvancedCalculator.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\AdvancedCalculator.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\AdvancedCalculator.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\refint\AdvancedCalculator.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\AdvancedCalculator.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\AdvancedCalculator.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\AdvancedCalculator\obj\Debug\net7.0\ref\AdvancedCalculator.dll

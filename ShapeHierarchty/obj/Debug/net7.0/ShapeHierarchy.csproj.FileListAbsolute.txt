@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\bin\Debug\net7.0\ShapeHierarchy.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\bin\Debug\net7.0\ShapeHierarchy.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\bin\Debug\net7.0\ShapeHierarchy.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\bin\Debug\net7.0\ShapeHierarchy.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\bin\Debug\net7.0\ShapeHierarchy.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ShapeHierarchy.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ShapeHierarchy.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\refint\ShapeHierarchy.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ShapeHierarchy.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ShapeHierarchy.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ShapeHierarchty\obj\Debug\net7.0\ref\ShapeHierarchy.dll
