@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\bin\Debug\net7.0\GradeAnalyzer.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\bin\Debug\net7.0\GradeAnalyzer.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\bin\Debug\net7.0\GradeAnalyzer.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\bin\Debug\net7.0\GradeAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\bin\Debug\net7.0\GradeAnalyzer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\GradeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\GradeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\GradeAnalyzer.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\GradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\GradeAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\refint\GradeAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\GradeAnalyzer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\GradeAnalyzer.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\GradeAnalyzer\obj\Debug\net7.0\ref\GradeAnalyzer.dll
