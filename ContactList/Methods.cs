@@ -80,18 +80,6 @@ namespace ContactList
 
             return newContact;
         }
-        void AddNameToContact()
-        {
-            Console.Write("Enter Contacts Name: ");
-            Name = Console.ReadLine().Trim();
-
-            while (string.IsNullOrEmpty(Name))
-            {
-                Console.WriteLine("Name is Empty. Try Again. ");
-                Console.Write("Enter Contacts Name: ");
-                Name = Console.ReadLine().Trim();
-            }
-        }
 
         public void ViewAllContacts()
         {
@@ -99,12 +87,17 @@ namespace ContactList
             {
                 Console.WriteLine($"Name: {contact.Name}, Phone Number: {contact.PhoneNumber}, Email: {contact.Email}");
             }
+            if (ListOfContacts == null || ListOfContacts.Count == 0)
+            {
+                Console.WriteLine("There are no contacts. \n");
+                ShowMenu();
+            }
         }
 
         public void SearchContact()
         {
             Console.WriteLine("Enter Name:");
-            string name = Console.ReadLine();
+            string name = Console.ReadLine().ToLower();
             while (string.IsNullOrEmpty(name))
             {
                 Console.WriteLine("Error, Try Again:");
@@ -113,12 +106,15 @@ namespace ContactList
 
             Console.WriteLine("\n Searching... \n");
 
-            for (int i = 0; i < ListOfContacts.Count; i++)
+            var searchResult = ListOfContacts.Where(c => c.Name.ToLower() == name);
+
+            if (searchResult.Count() == 0)
             {
-                if (name == ListOfContacts[i].Name)
-                {
-                    Console.WriteLine($"Name: {ListOfContacts[i].Name}, Phone Number: {ListOfContacts[i].PhoneNumber}, Email: {ListOfContacts[i].Email} ");
-                }
+                Console.WriteLine("Error, try again.");
+            }
+            foreach(Contact contact in searchResult)
+            {
+                Console.WriteLine($"Name: {contact.Name}, Number : {contact.PhoneNumber}, Email: {contact.Email}");
             }
         }
 

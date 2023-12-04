@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\bin\Debug\net7.0\ContactList.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\bin\Debug\net7.0\ContactList.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\bin\Debug\net7.0\ContactList.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\bin\Debug\net7.0\ContactList.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\bin\Debug\net7.0\ContactList.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ContactList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ContactList.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ContactList.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ContactList.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\refint\ContactList.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ContactList.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ContactList.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ContactList\obj\Debug\net7.0\ref\ContactList.dll
