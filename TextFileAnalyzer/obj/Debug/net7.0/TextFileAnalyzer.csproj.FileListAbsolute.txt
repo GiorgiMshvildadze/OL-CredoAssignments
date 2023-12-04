@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\bin\Debug\net7.0\TextFileAnalyzer.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\bin\Debug\net7.0\TextFileAnalyzer.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\bin\Debug\net7.0\TextFileAnalyzer.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\bin\Debug\net7.0\TextFileAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\bin\Debug\net7.0\TextFileAnalyzer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\TextFileAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\TextFileAnalyzer.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\TextFileAnalyzer.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\TextFileAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\TextFileAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\refint\TextFileAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\TextFileAnalyzer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\TextFileAnalyzer.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\TextFileAnalyzer\obj\Debug\net7.0\ref\TextFileAnalyzer.dll

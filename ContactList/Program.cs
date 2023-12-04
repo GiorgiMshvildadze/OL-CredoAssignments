@@ -17,8 +17,6 @@ namespace ContactList
             Methods methods = new Methods();
             while (methods.input != 4)
             {
-
-
                 methods.ShowMenu();
             }
         }

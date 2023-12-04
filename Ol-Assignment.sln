@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerBuilder", "BurgerBuilder\BurgerBuilder.csproj", "{15A4D926-0B58-4B81-B564-E8C411B1859D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCalculator", "AdvancedCalculator\AdvancedCalculator.csproj", "{1800E2D1-1526-4A2E-B09F-D2106FB4F090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedCalculator", "AdvancedCalculator\AdvancedCalculator.csproj", "{1800E2D1-1526-4A2E-B09F-D2106FB4F090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileAnalyzer", "TextFileAnalyzer\TextFileAnalyzer.csproj", "{3F1D08BE-56F7-473B-941B-387326EB7E82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{1800E2D1-1526-4A2E-B09F-D2106FB4F090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1800E2D1-1526-4A2E-B09F-D2106FB4F090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1800E2D1-1526-4A2E-B09F-D2106FB4F090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1D08BE-56F7-473B-941B-387326EB7E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1D08BE-56F7-473B-941B-387326EB7E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1D08BE-56F7-473B-941B-387326EB7E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1D08BE-56F7-473B-941B-387326EB7E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
