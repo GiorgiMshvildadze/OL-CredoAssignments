@@ -15,6 +15,7 @@ namespace ContactList
         public List<Contact> ListOfContacts = new List<Contact>();
 
 
+
         public void InputOption()
         {
             if (!Int32.TryParse(Console.ReadLine(), out input) || input > 4 || input < 0)
@@ -34,14 +35,6 @@ namespace ContactList
             Console.WriteLine("4.Exit\n");
             InputOption();
         }
-
-        public bool EmailIsValid(string email)
-        {
-            string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
-            Regex regex = new Regex(pattern);
-
-            return regex.IsMatch(email);
-        }
         public Contact AddContact()
         {
             Contact newContact = new Contact();
@@ -51,8 +44,7 @@ namespace ContactList
 
             while (string.IsNullOrEmpty(newContact.Name))
             {
-                Console.WriteLine("Name is Empty. Try Again. ");
-                Console.Write("Enter Contacts Name: ");
+                Console.WriteLine("Name is Empty. Try Again.\nEnter Contacts Name: ");
                 newContact.Name = Console.ReadLine().Trim();
             }
 
@@ -61,8 +53,7 @@ namespace ContactList
 
             while (string.IsNullOrEmpty(newContact.PhoneNumber) || newContact.PhoneNumber.Length != 9)
             {
-                Console.WriteLine("Phone Number is incorrect. Try Again.");
-                Console.Write("Enter Contacts Number: ");
+                Console.Write("Phone Number is incorrect. Try Again. \nEnter Contacts Number:");
                 newContact.PhoneNumber = Console.ReadLine();
             }
 
@@ -71,14 +62,20 @@ namespace ContactList
 
             while (!EmailIsValid(newContact.Email))
             {
-                Console.WriteLine("Email is not valid. Try Again.");
-                Console.Write("Enter Contacts Email: ");
+                Console.Write("Email is not valid. Try Again.\nEnter Contacts Email: ");
                 newContact.Email = Console.ReadLine().Trim();
             }
 
             ListOfContacts.Add(newContact);
 
             return newContact;
+        }
+        public bool EmailIsValid(string email)
+        {
+            string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
+            Regex regex = new Regex(pattern);
+
+            return regex.IsMatch(email);
         }
 
         public void ViewAllContacts()
@@ -93,6 +90,7 @@ namespace ContactList
                 ShowMenu();
             }
         }
+
 
         public void SearchContact()
         {

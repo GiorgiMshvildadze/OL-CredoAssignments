@@ -96,7 +96,9 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        var triangle = new Triangle(6, 8, 10);
+        triangle.CalculateArea();
+         
         Shape circle1 = new Circle(5);
         circle1.CalculatePerimeter();
         circle1.CalculateArea();

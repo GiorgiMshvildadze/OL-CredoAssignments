@@ -1,0 +1,50 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Adonet book library.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Adonet book library.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Adonet book library.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Adonet book library.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Adonet book library.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.csproj.AssemblyReference.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.csproj.CopyComplete
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\refint\Adonet book library.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\Adonet book library.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\Ado\obj\Debug\net7.0\ref\Adonet book library.dll

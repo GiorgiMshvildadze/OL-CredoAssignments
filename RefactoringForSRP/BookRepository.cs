@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RefactoringForSRP
+{
+    public class BookRepository :IBookRepository
+    {
+        
+        public void UpdateInventory(Book book)
+        {
+            // Update inventory
+        }
+
+        public Book GetBookById(int bookId)
+        {
+            // TODO: Get book by id
+            return new Book();
+        }
+    }
+}

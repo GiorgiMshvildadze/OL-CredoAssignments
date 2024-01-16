@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\DirectoryExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\DirectoryExplorer.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\DirectoryExplorer.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\DirectoryExplorer.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\bin\Debug\net7.0\DirectoryExplorer.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\bin\Debug\net7.0\DirectoryExplorer.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\bin\Debug\net7.0\DirectoryExplorer.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\bin\Debug\net7.0\DirectoryExplorer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\bin\Debug\net7.0\DirectoryExplorer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\DirectoryExplorer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\refint\DirectoryExplorer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\DirectoryExplorer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\DirectoryExplorer.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\DirectoryExplorer\obj\Debug\net7.0\ref\DirectoryExplorer.dll
