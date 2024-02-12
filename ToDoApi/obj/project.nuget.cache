@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9q2tUYQ5C4Z+OA2D4fDyU3bSYNraZlPwN80VjF4Ff8FrT8WYsxuDnuNB32SNiw3X9Sr8c9wVzK6g8zS9JczbiQ==",
+  "dgSpecHash": "cy1/7lQoORUot+XjjR8S5k/mEXVbUwZ4d1f8/K1CFyvi4SXoPDLlGThEWcLUL6Z88TPsUf9iZH7bU1Ncr/VPgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\ToDoApi\\ToDoApi.csproj",
+  "projectFilePath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\ToDoApi\\GenerateJwtTokenTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

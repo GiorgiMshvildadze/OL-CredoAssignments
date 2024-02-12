@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\WordsAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\WordsAnalyzer.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\WordsAnalyzer.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\WordsAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\bin\Debug\net7.0\WordsAnalyzer.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\bin\Debug\net7.0\WordsAnalyzer.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\bin\Debug\net7.0\WordsAnalyzer.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\bin\Debug\net7.0\WordsAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\bin\Debug\net7.0\WordsAnalyzer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\WordsAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\refint\WordsAnalyzer.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\WordsAnalyzer.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\WordsAnalyzer.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\WordsAnalyzer\obj\Debug\net7.0\ref\WordsAnalyzer.dll

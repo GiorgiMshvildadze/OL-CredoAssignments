@@ -77,11 +77,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCalculator", "ApiCalculator\ApiCalculator.csproj", "{2871DDAF-8549-4665-8DE5-EA867C0BB3A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApi", "ToDoApi\ToDoApi.csproj", "{4A217AA8-D178-47D4-9007-053B4C3B04F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateJwtTokenTodo", "ToDoApi\GenerateJwtTokenTodo.csproj", "{4A217AA8-D178-47D4-9007-053B4C3B04F3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoMigrations", "ToDoMigrations\ToDoMigrations.csproj", "{3CF37217-874C-47BF-929A-2D779FEB44BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionFunctions", "ExtensionFunctions\ExtensionFunctions.csproj", "{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionFunctions", "ExtensionFunctions\ExtensionFunctions.csproj", "{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsAnalyzer", "WordsAnalyzer\WordsAnalyzer.csproj", "{2E8BEECF-ED39-4F07-8FC2-945833F1DB1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8BEECF-ED39-4F07-8FC2-945833F1DB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8BEECF-ED39-4F07-8FC2-945833F1DB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8BEECF-ED39-4F07-8FC2-945833F1DB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8BEECF-ED39-4F07-8FC2-945833F1DB1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

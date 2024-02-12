@@ -2991,9 +2991,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\ToDoApi\\ToDoApi.csproj",
-      "projectName": "ToDoApi",
-      "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\ToDoApi\\ToDoApi.csproj",
+      "projectUniqueName": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\ToDoApi\\GenerateJwtTokenTodo.csproj",
+      "projectName": "GenerateJwtTokenTodo",
+      "projectPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\ToDoApi\\GenerateJwtTokenTodo.csproj",
       "packagesPath": "C:\\Users\\giorgimshvildadze\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\giorgimshvildadze\\Test\\OL-CredoAssignments1\\ToDoApi\\obj\\",
       "projectStyle": "PackageReference",
