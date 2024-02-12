@@ -15,14 +15,19 @@ namespace WordsAnalyzer
         public string shortestWord = null;
         object longestLock = new object();
         object shortestLock = new object();
+        char[] vowels = { 'a','e','i','o','u','y'};
+        string text = null;
+        string[] words = null;
+        object vowelsLock = new object();
+        string wordWithMostVowels = null;
+        int mostVowelWordVowelCount = 0;
         public async Task AnalyzeFile()
         {
-            string text = await File.ReadAllTextAsync(filePath);
-            string[] words = text.Split(new char[] { ' ', '\n', '\r', '\t' }, StringSplitOptions.RemoveEmptyEntries);
-
+            text = await File.ReadAllTextAsync(filePath);
+            words = text.Split(new char[] { ' ', '\n', '\r', '\t' }, StringSplitOptions.RemoveEmptyEntries);
             ConcurrentDictionary<string, int> wordCounts = new ConcurrentDictionary<string, int>();
-
-
+            
+            
             var tasks = words.Select(async word =>
             {
                 await Task.Delay(0);
@@ -42,15 +47,53 @@ namespace WordsAnalyzer
                         shortestWord = word;
                     }
                 }
-
             });
 
             await Task.WhenAll(tasks);
+            foreach (var pair in wordCounts)
+            {
+                Console.WriteLine($"{pair.Key}: {pair.Value}");
+            }
 
-            await Console.Out.WriteLineAsync(longestWord);
-            await Console.Out.WriteLineAsync(shortestWord);
+            // Output the longest and shortest words
+            Console.WriteLine($"Longest word: {longestWord}");
+            Console.WriteLine($"Shortest word: {shortestWord}");
         }
-        
+        public async Task FindWordWithMostVowels()
+        {
+            text = await File.ReadAllTextAsync(filePath);
+            words = text.Split(new char[] { ' ', '\n', '\r', '\t' }, StringSplitOptions.RemoveEmptyEntries);
+            
+            Parallel.ForEach(words, word =>
+            {
+                int count = 0;
+
+                for (int i = 0;i<= word.Length; i++)
+                {
+                    if (word.Contains('a') ||
+                   word.Contains('e') ||
+                   word.Contains("i") ||
+                   word.Contains("o") ||
+                   word.Contains("u") ||
+                   word.Contains("y"))
+                    {
+                        count++;
+                    }
+
+                }
+                if (count> mostVowelWordVowelCount)
+                {
+                    wordWithMostVowels = word;
+                    mostVowelWordVowelCount = count;
+                }
+               
+               
+            });
+            Console.WriteLine(wordWithMostVowels);
+        }
 
     }
+
+
 }
+
