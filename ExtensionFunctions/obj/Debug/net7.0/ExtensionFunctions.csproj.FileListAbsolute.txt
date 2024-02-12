@@ -1,0 +1,14 @@
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\bin\Debug\net7.0\ExtensionFunctions.exe
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\bin\Debug\net7.0\ExtensionFunctions.deps.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\bin\Debug\net7.0\ExtensionFunctions.runtimeconfig.json
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\bin\Debug\net7.0\ExtensionFunctions.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\bin\Debug\net7.0\ExtensionFunctions.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ExtensionFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ExtensionFunctions.AssemblyInfoInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ExtensionFunctions.AssemblyInfo.cs
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ExtensionFunctions.csproj.CoreCompileInputs.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ExtensionFunctions.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\refint\ExtensionFunctions.dll
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ExtensionFunctions.pdb
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ExtensionFunctions.genruntimeconfig.cache
+C:\Users\giorgimshvildadze\Test\OL-CredoAssignments1\ExtensionFunctions\obj\Debug\net7.0\ref\ExtensionFunctions.dll

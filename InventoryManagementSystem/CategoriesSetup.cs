@@ -14,7 +14,7 @@ namespace InventoryManagementSystem
         public Categories Electronics = new Categories("Electronics", "Devices and gadgets like smartphones, laptops, and cameras.");
         public Categories Clothing = new Categories("Clothing", "Apparel items including shirts, pants, and accessories.");
         public Categories HomeAppliances = new Categories("Home Appliances", "Household appliances like refrigerators, microwaves, and washing machines.");
-        public Categories Books = new Categories("Books", "Various genres of books, including fiction, non-fiction, and academic.");
+        public Categories Books = new("Books", "Various genres of books, including fiction, non-fiction, and academic.");
         public Categories SportsAndFitness = new Categories("Sports & Fitness", "Equipment and accessories for sports and fitness activities.");
         public Categories Groceries = new Categories("Groceries", "Everyday items including food, beverages, and household essentials.");
         public Categories HealthAndBeauty = new Categories("Health & Beauty", "Products for personal care, wellness, and beauty.");

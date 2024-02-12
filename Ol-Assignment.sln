@@ -73,7 +73,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adonet book library", "Ado\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper BookLibrary", "Dapper BookLibrary\Dapper BookLibrary.csproj", "{5BA5E80C-DE2B-4284-89F5-DE81C48B4CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagementSystem", "InventoryManagementSystem\InventoryManagementSystem.csproj", "{E5C031F5-5354-4A1A-A16C-1DFAD8EA954E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagementSystem", "InventoryManagementSystem\InventoryManagementSystem.csproj", "{E5C031F5-5354-4A1A-A16C-1DFAD8EA954E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCalculator", "ApiCalculator\ApiCalculator.csproj", "{2871DDAF-8549-4665-8DE5-EA867C0BB3A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApi", "ToDoApi\ToDoApi.csproj", "{4A217AA8-D178-47D4-9007-053B4C3B04F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoMigrations", "ToDoMigrations\ToDoMigrations.csproj", "{3CF37217-874C-47BF-929A-2D779FEB44BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionFunctions", "ExtensionFunctions\ExtensionFunctions.csproj", "{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +233,22 @@ Global
 		{E5C031F5-5354-4A1A-A16C-1DFAD8EA954E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C031F5-5354-4A1A-A16C-1DFAD8EA954E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C031F5-5354-4A1A-A16C-1DFAD8EA954E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2871DDAF-8549-4665-8DE5-EA867C0BB3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2871DDAF-8549-4665-8DE5-EA867C0BB3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2871DDAF-8549-4665-8DE5-EA867C0BB3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2871DDAF-8549-4665-8DE5-EA867C0BB3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A217AA8-D178-47D4-9007-053B4C3B04F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A217AA8-D178-47D4-9007-053B4C3B04F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A217AA8-D178-47D4-9007-053B4C3B04F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A217AA8-D178-47D4-9007-053B4C3B04F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF37217-874C-47BF-929A-2D779FEB44BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF37217-874C-47BF-929A-2D779FEB44BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF37217-874C-47BF-929A-2D779FEB44BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF37217-874C-47BF-929A-2D779FEB44BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3909D3B4-F0A9-4490-B6C2-880A74CD6C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
