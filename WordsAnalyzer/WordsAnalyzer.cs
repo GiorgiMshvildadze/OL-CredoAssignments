@@ -55,7 +55,6 @@ namespace WordsAnalyzer
                 Console.WriteLine($"{pair.Key}: {pair.Value}");
             }
 
-            // Output the longest and shortest words
             Console.WriteLine($"Longest word: {longestWord}");
             Console.WriteLine($"Shortest word: {shortestWord}");
         }
